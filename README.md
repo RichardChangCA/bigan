@@ -1,5 +1,7 @@
 # Implementation of BiGAN on Keras and Tensorflow 2.0
 
+Code source: https://github.com/jason71995/bigan/blob/master/train_cifar10.py
+
 ## Introduction
 Implementation of [(2016) Adversarial Feature Learning.](https://arxiv.org/abs/1605.09782)
 
